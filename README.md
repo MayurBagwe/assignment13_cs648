@@ -2,5 +2,5 @@
  CS648
 
  Run the following commands in two separate terminals
- node server.js
- npm start
+1. ** node server.js** 
+2. ** npm start **
